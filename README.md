@@ -18,7 +18,11 @@ Application uses tickets.json ( available at the ZendeskCodingChallenge folder a
 
 EXTERNAL LIBRARIES:
 
-Jackson core
-Jackson Databind
-Jackson Annotations
-Junit4
+1. Jackson core
+
+2. Jackson Databind
+
+3. Jackson Annotations
+
+4. Junit4
+
