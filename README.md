@@ -6,10 +6,15 @@ This is a Ticket Viewer CLI program written in Java for the coding challenge for
 TO RUN THIS PROGRAM:
 
 Download the code the project to your local working directory
+
 Make sure you have an appropriate up-to-date version of JDK (JRE version is 11)  that is compatible with the project downloaded and installed
+
 Open the project in an IDE of your preference (IntelliJ IDEA, Visual Studio Code, Eclipse, etc.)
+
 Go to src → main → java → org → example → App.java,
+
 Use your IDE feature to run "App.java" to run the program
+
 The program will run and display information in your console/terminal, in which you can type in your input to interact with the program.
 
 APPLICATION DATA:
